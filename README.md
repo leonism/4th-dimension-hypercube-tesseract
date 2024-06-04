@@ -1,5 +1,7 @@
 # **Journey into the Unseen: Unveiling the 4th Dimension with Python Magic - Visualizing the Enigmatic Hypercube (Tesseract)**
 
+![png](/images/tesseract.png)
+
 ## A Mind-Blowing Adventure!
 
 Hey there, fellow explorer of the cosmic unknown! 🚀 Have you ever gazed at the stars, pondering the mysteries of the universe, and wondered if there's more than meets the eye? Well, hold onto your hats (or should I say space helmets?) because we're about to dive headfirst into the mind-bending world of the fourth dimension! 🌌✨
@@ -138,7 +140,7 @@ plt.show()
 
 ```
 
-![png](output_5_0.png)
+![png](/images/output_5_0.png)
 
 This code creates an interactive animation of the tesseract rotating in 4D space. You can adjust the number of `frames` and the `rotation speed` by modifying the `frames variable` and the `interval parameter` in the `FuncAnimation` constructor, respectively.
 
@@ -199,7 +201,7 @@ ax.set_title('3D Projection of a 4D Hypercube (Tesseract)')
 plt.show()
 ```
 
-![png](output_7_0.png)
+![png](/images/output_7_0.png)
 
 ```python
 # Create a plot
@@ -226,4 +228,4 @@ ax.set_title('3D Projection of a 4D Hypercube (Tesseract)')
 plt.show()
 ```
 
-![png](output_8_0.png)
+![png](/images/output_8_0.png)
