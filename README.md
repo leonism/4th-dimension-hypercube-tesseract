@@ -10,7 +10,9 @@ Now, I know what you're thinking. How on earth (or should I say, how in the cosm
 
 So buckle up, strap on your imagination goggles, and prepare to have your mind blown as we venture into the uncharted territories of the fourth dimension. It's going to be a wild ride, filled with twists, turns, and plenty of mind-bending revelations. Let's fire up our Python engines and set sail into the great unknown! 🚀🔥
 
-## So, what’s the deal with dimensions?
+Wish to follow along with an actual real life environment, fork this project at the following URL [4th Dimension Hypercube Tesseract](https://github.com/leonism/4th-dimension-hypercube-tesseract), of [GitHub - Leonism](https://github.com/leonism/) Fame.
+
+## So, What’s The Deal with Dimensions?
 
 - **1D (One Dimension)**: Yo, check this out, we're talking about the OG, the one-dimensional world. Picture this: it's like that super sleek, skinny line that's just chilling there. You know, like a strand of angel hair pasta, or even cooler, like a ribbon dancing in the wind. It's all about that length, but ain't got no time for width or height, just straight vibin' in its own lane. 🍝
 
@@ -44,15 +46,13 @@ Stack a bunch of those squares to build a cube. Now we’ve got length, width, a
 
 - **4D (Four Dimensions)**
 
-Whoa, what now? The 4th dimension is like adding another direction to your 3D cube. Imagine if your cube could move in a completely new direction that we can’t even see. 🤯 It’s hard to visualize, but think of it as a shadow of a shadow. This extra direction gives us a hypercube or tesseract.
+Yo, hold up! You mean to tell me we're talkin' 'bout the 4th dimension now? That's like adding another layer to your 3D cube, fam. Picture this: your cube ain't just chillin' in three directions anymore, nah, it's bustin' moves in a whole new dimension we can't even wrap our heads around! 🤯 It's like tryna catch a vibe from a shadow's shadow, ya feel? This extra direction is what gives us the hypest shape of 'em all - the hypercube, also known as the tesseract.
 
 **Real-Life Example**: Imagine your 3D cube can also move in a way we can’t see. It’s like magic! 🎩✨
 
-So, a hypercube is just a cube extended into the 4th dimension. It's got 16 corners, 32 edges, 24 square faces, and 8 cubical cells. Crazy, right? But don't worry, we're going to make this mind-bending concept come to life with some Python magic! 🐍✨
+Alright, listen up, peeps! 📣 Ever heard of a hypercube? It's like a cube, but on a whole 'nother level – we're talking 4D, baby! 😎 Imagine this: 16 corners, 32 edges, 24 square faces, and 8 cubical cells. Mind. Blown. 💥 But no need to stress, fam, 'cause we're about to unleash some serious Python magic and bring this funky shape to life! 🎩🔮 Get hyped 'cause we're diving headfirst into the craziest journey ever – visualizing a 4D hypercube! 🚀✨ Let's do this! 🙌
 
-Are you excited? Because I sure am! Let's dive into this awesome journey of visualizing a 4D hypercube! 🚀
-
-x# **Dimensions: The Basics**
+x# **Dimensions: The Basics Explanation**
 
 Alright, let’s break down dimensions in a way that even a 5-year-old would find super fun and easy to understand.
 
